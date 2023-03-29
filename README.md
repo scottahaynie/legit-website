@@ -1,5 +1,5 @@
 # legit-website
 
-![image](/legit_logo.png)
+![image](/assets/legit_logo.png)
 
 Coming Soon...
